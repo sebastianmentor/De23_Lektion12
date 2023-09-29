@@ -1,0 +1,22 @@
+adress: Sagovägen 123, 12345 Stockholm
+anställda:
+- namn: Anna Svensson
+  roll: Försäljare
+  ålder: 30
+- namn: Erik Karlsson
+  roll: Lagerarbetare
+  ålder: 25
+böcker:
+- författare: J.R.R. Tolkien
+  genre: Fantasy
+  pris: 120
+  titel: Hobbiten
+- författare: J.K. Rowling
+  genre: Fantasy
+  pris: 150
+  titel: Harry Potter och De Vises Sten
+namn: Fantasy Bokhandel
+öppettider:
+  lör: 10:00-15:00
+  mån-fre: 09:00-18:00
+  sön: Stängt
